@@ -5,7 +5,7 @@ Rules:
 - Do not include a body
 - Do not use bullet points
 - Keep it concise and clear
-- Prefer 50 characters or fewer
+- Prefer 100 characters or fewer
 - Use Conventional Commit format: <type>: <subject>
 - Use one lowercase type only, such as:
   feat: for new features
